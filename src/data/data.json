@@ -1,0 +1,245 @@
+[{
+    "id": 1,
+    "name": "Taskin Ahmed",
+    "role": "Bowler",
+    "jerseynumber": 3,
+    "batting": "Left-handed",
+    "bowling": "Right arm fast",
+    "image": "https://i.ibb.co/zmrJrJF/19059303-1150622025042545-5759934672538130974-n.jpg",
+    "salary": 90000
+  }, {
+    "id": 2,
+    "name": "Shakib Al Hasan",
+    "role": "All-rounder",
+    "jerseynumber": 75,
+    "batting": "Left-handed",
+    "bowling": "Slow-left-arm-orthodox",
+    "image": "https://i.ibb.co/DDVyDjk/290430.jpg",
+    "salary": 200000
+  }, {
+    "id": 3,
+    "name": "Mohammad Ashraful",
+    "role": "Batsman",
+    "jerseynumber": 98,
+    "batting": "Right-handed",
+    "bowling": "Right-arm leg break",
+    "image": "https://i.ibb.co/s59vpZb/148876575-270353141127766-8848612283128229039-n.jpg",
+    "salary": 100000
+  }, {
+    "id": 4,
+    "name": "Liton Das",
+    "role": "Wicketkeeper",
+    "jerseynumber": 16,
+    "batting": "Right-handed",
+    "bowling": "N/A",
+    "image": "https://i.ibb.co/Df0Mt8V/139278871-3920160518072628-6963263190042107898-o.jpg",
+    "salary": 150000
+  }, {
+    "id": 5,
+    "name": "Anamul Haque Bijoy",
+    "role": "Top-order Batsman, Wicker-keeper",
+    "jerseynumber": 66,
+    "batting": "Right-handed",
+    "bowling": "N/A",
+    "image": "https://i.ibb.co/T4ynB1w/10999507-643080002465395-2970885035519691230-n.jpg",
+    "salary": 100000
+  }, {
+    "id": 6,
+    "name": "Mominul Haque",
+    "role": "Batsman",
+    "jerseynumber": 7,
+    "batting": "Left-handed",
+    "bowling": "slow left-arm orthodox",
+    "image": "https://i.ibb.co/VgqT4WP/69692360-2909510672399465-5372111773480517632-n.jpg",
+    "salary": 150000
+  }, {
+    "id": 7,
+    "name": "Mehidy Hasan Miraz",
+    "role": "Bowling All-rounder",
+    "jerseynumber": 15,
+    "batting": "Right-handed",
+    "bowling": "Right-arm off break",
+    "image": "https://i.ibb.co/XSSLxWD/144616963-256600905831064-6313662129034579556-o.jpg",
+    "salary": 150000
+  }, {
+    "id": 8,
+    "name": "Nurul Hasan Sohan",
+    "role": "Wicket-keeper",
+    "jerseynumber": 18,
+    "batting": "Right-handed",
+    "bowling": "N/A",
+    "image": "https://i.ibb.co/bdHqJ3W/18275140-428745747483013-1123965247221108152-n.jpg",
+    "salary": 100000
+  }, {
+    "id": 9,
+    "name": "Abu Hider Rony",
+    "role": "Bowler",
+    "jerseynumber": 14,
+    "batting": "Right-handed",
+    "bowling": "Left-arm fast-medium",
+    "image": "https://i.ibb.co/LpGYjJB/39012539-2214427332127334-1249743600900636672-o.jpg",
+    "salary": 100000
+  }, {
+    "id": 10,
+    "name": "Afif Hossain",
+    "role": "Batting All-rounder",
+    "jerseynumber": 18,
+    "batting": "Left-handed",
+    "bowling": "Right-arm off break",
+    "image": "https://i.ibb.co/jHr6T7w/140305047-1086136835184044-5375458409918532969-n.jpg",
+    "salary": 150000
+  }, {
+    "id": 11,
+    "name": "Al Amin Hossain",
+    "role": "Bowler",
+    "jerseynumber": 4,
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium-fast",
+    "image": "https://i.ibb.co/sKWFf2j/10474037-548182918684726-5041897682947303875-n.jpg",
+    "salary": 100000
+  }, {
+    "id": 12,
+    "name": "Nasir Hossain",
+    "role": "Batting All-rounder",
+    "jerseynumber": 69,
+    "batting": "Right-handed",
+    "bowling": "Right-arm off break",
+    "image": "https://i.ibb.co/N3xzDbB/1929441-1080709838654435-5585813773646812587-n.jpg",
+    "salary": 100000
+  }, {
+    "id": 13,
+    "name": "Rubel Hossain",
+    "role": "Bowler",
+    "jerseynumber": 34,
+    "batting": "Right-handed",
+    "bowling": "Right-arm fast medium",
+    "image": "https://i.ibb.co/thmCbzc/61924335-2258234444222459-6511766158469758976-o.jpg",
+    "salary": 150000
+  }, {
+    "id": 14,
+    "name": "Nazmul Hossain Shanto",
+    "role": "Top-order Batsman",
+    "jerseynumber": 99,
+    "batting": "Left handed",
+    "bowling": "Right-arm off break",
+    "image": "https://i.ibb.co/pJHxsKC/58586722-2331188120492011-1062043574331244544-n.jpg",
+    "salary": 150000
+  }, {
+    "id": 15,
+    "name": "Tamim Iqbal",
+    "role": "Opening Batsman",
+    "jerseynumber": 22,
+    "batting": "Left handed",
+    "bowling": "N/A",
+    "image": "https://i.ibb.co/GcHQR9t/12932731-1166303013381541-8047906881974073908-n.jpg",
+    "salary": 200000
+  }, {
+    "id": 16,
+    "name": "Taijul Islam",
+    "role": "Bowler",
+    "jerseynumber": 12,
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm orthodox",
+    "image": "https://i.ibb.co/pLCFHHy/142492585-249553433196100-3802759695387100671-n.jpgV",
+    "salary": 150000
+  }, {
+    "id": 17,
+    "name": "Abu Jayed Rahi",
+    "role": "Bowler",
+    "jerseynumber": 17,
+    "batting": "Right-handed",
+    "bowling": "Right-arm medium-fast",
+    "image": "https://i.ibb.co/yN8n2h8/122202672-2781523542105024-7965736784718494137-o.jpg",
+    "salary": 150000
+  }, {
+    "id": 18,
+    "name": "Imrul Kayes",
+    "role": "Opening Batsman",
+    "jerseynumber": 45,
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm orthodox",
+    "image": "https://i.ibb.co/qJC0Ts9/44265619-1835593693144365-1443595244703580160-n.jpg",
+    "salary": 150000
+  }, {
+    "id": 19,
+    "name": "Mahmudullah Riyad",
+    "role": "Batting All-rounder",
+    "jerseynumber": 30,
+    "batting": "Right-handed",
+    "bowling": "Right-arm off break",
+    "image": "https://i.ibb.co/GCGKksq/148856591-10164939669385357-7732333016536990985-n.jpg",
+    "salary": 200000
+  }, {
+    "id": 20,
+    "name": "Mohammad Mithun",
+    "role": "Batsman",
+    "jerseynumber": 8,
+    "batting": " Right-handed Batsman",
+    "bowling": "Right-arm medium fast",
+    "image": "https://i.ibb.co/2KdF8dD/61618169-888466888154356-1094702226477154304-n.jpg",
+    "salary": 150000
+  }, {
+    "id": 21,
+    "name": "Mashrafe Bin Mortaza",
+    "role": "Bowler",
+    "jerseynumber": 2,
+    "batting": "Right-handed",
+    "bowling": "Right arm fast-medium",
+    "image": "https://i.ibb.co/j4TXNwJ/10941840-838901739509312-6399336718343185776-n.jpg",
+    "salary": 200000
+  }, {
+    "id": 22,
+    "name": "Mushfiqur Rahim",
+    "role": "Wicket-keeper, Batsman",
+    "jerseynumber": 15,
+    "batting": "Right-handed",
+    "bowling": "N/A",
+    "image": "https://i.ibb.co/XyfPtVq/140338469-243534690475483-3841649585650438339-n.jpg",
+    "salary": 200000
+  }, {
+    "id": 23,
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "jerseynumber": 90,
+    "batting": "Left-handed",
+    "bowling": "Left-arm medium fast",
+    "image": "https://i.ibb.co/6Y1j6gR/118144859-1945575892245573-4484859214228001899-n.jpg",
+    "salary": 200000
+  }, {
+    "id": 24,
+    "name": "Sabbir Rahman",
+    "role": "Batting All-rounder",
+    "jerseynumber": 1,
+    "batting": "Right-handed",
+    "bowling": " Right-arm leg break ",
+    "image": "https://i.ibb.co/4YY76G4/18670825-1236229483113335-1264537817021289194-n.jpg",
+    "salary": 100000
+  }, {
+    "id": 25,
+    "name": "Abdur Razzak",
+    "role": "Bowler",
+    "jerseynumber": 41,
+    "batting": "Left-handed",
+    "bowling": "Slow left-arm orthodox",
+    "image": "https://i.ibb.co/g7cKBmc/abdur-razzak.jpg",
+    "salary": 150000
+  }, {
+    "id": 26,
+    "name": "Mohammad Saifuddin",
+    "role": "Bowling All-rounder",
+    "jerseynumber": 74,
+    "batting": "Left-handed",
+    "bowling": "Right arm fast-medium",
+    "image": "https://i.ibb.co/prhhvGf/44452553-1705785069533199-3616815161374932992-n.jpg",
+    "salary": 150000
+  }, {
+    "id": 27,
+    "name": "Soumya Sarkar",
+    "role": "Batting All-rounder",
+    "jerseynumber": 59,
+    "batting": "Left-handed",
+    "bowling": "Right-arm medium-fast",
+    "image": "https://i.ibb.co/WfRQD7T/17799197-1618333108196454-1025978810595950729-n.jpg",
+    "salary": 150000
+  }]
+  

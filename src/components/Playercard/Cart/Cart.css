@@ -1,0 +1,9 @@
+.tagInfo p{
+    font-size:20px;
+    font-weight: bold;
+}
+.tagInfo h5{
+    color:aliceblue;
+    background-color: green;
+    padding: 5px;
+}
